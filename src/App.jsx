@@ -1073,7 +1073,7 @@ export default function App() {
           </div>
 
           <div className="ihs-sidebar-foot">
-            Bandar Jaya, Lampung
+            Bandung, Jawa Barat, Indonesia
             <br />
             Terbuka untuk peluang baru
           </div>
