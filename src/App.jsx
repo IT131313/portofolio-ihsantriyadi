@@ -1217,7 +1217,7 @@ export default function App() {
                 </span>
 
                 <span>
-                  <strong>Lokasi</strong> — Bandar Jaya, Lampung
+                  <strong>Lokasi</strong> — Bandung, Jawa Barat, Indonesia
                 </span>
               </div>
             </div>
@@ -1462,7 +1462,7 @@ export default function App() {
 
               <span className="ihs-contact-item">
                 <MapPin size={17} />
-                Bandar Jaya, Lampung
+                Bandung, Jawa Barat, Indonesia
               </span>
             </div>
           </section>
